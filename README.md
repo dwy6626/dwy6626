@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mirror0227?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ave-mujica?ext=contest)
 
 <!--
 **dwy6626/dwy6626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
